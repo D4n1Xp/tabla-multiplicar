@@ -3,7 +3,11 @@ import streamlit as st
 
 # titulo APP
 st.title('Tablas de Multiplicar')
-
+st.write(
+    '''
+    [Repo-GitHub](https://github.com/D4n1Xp/tabla-multiplicar)
+    '''
+)
 # body
 st.write('Que tabla de multiplicar quieres consultar')
 
